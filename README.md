@@ -16,3 +16,7 @@ Servlet,
 MySQL 5.5, 
 STS, 
 apache-tomcat-8.5.87.
+
+Changes 1: The TODO on the header and name on the footer are redirected to my github site. The color of the app changes to blue.
+
+Changes 2: MySQL on my computer is version 5.5. The MySQL commands are changed to match my version. 
